@@ -2,4 +2,4 @@ streamlit
 opencv-python-headless
 numpy
 Pillow
-git+https://github.com/andfanilo/streamlit-drawable-canvas.git
+git+https://github.com/andfanilo/streamlit-drawable-canvas.git@fix/image_to_url
